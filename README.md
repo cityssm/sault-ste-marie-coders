@@ -5,11 +5,15 @@ A repository to promote open source developers and organizations in Sault Ste. M
 
 ## Organizations
 
-- [cityssm](https://github.com/cityssm) - The Corporation of the City of Sault Ste. Marie
+| GitHub Account | Organization |
+| -------------- | ------------ |
+| [cityssm](https://github.com/cityssm) | The Corporation of the City of Sault Ste. Marie |
 
 ## Developers
 
-- [dangowans](https://github.com/dangowans) - Dan Gowans
+| GitHub Account | Developer |
+| -------------- | ------------ |
+| [dangowans](https://github.com/dangowans) | Dan Gowans |
 
 ## Contributing
 
