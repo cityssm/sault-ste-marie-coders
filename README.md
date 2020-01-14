@@ -1,6 +1,6 @@
 # sault-ste-marie-coders
 
-A repository to promote developers and organizations in Sault Ste. Marie, Ontario.
+A repository to promote open source developers and organizations in Sault Ste. Marie, Ontario.
 
 
 ## Organizations
@@ -10,3 +10,7 @@ A repository to promote developers and organizations in Sault Ste. Marie, Ontari
 ## Developers
 
 - [dangowans](https://github.com/dangowans) - Dan Gowans
+
+## Contributing
+
+Living and coding in Sault Ste. Marie?  Add yourself or your organization to the list!
