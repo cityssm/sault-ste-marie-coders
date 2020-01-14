@@ -8,12 +8,14 @@ A repository to promote open source developers and organizations in Sault Ste. M
 | GitHub Account | Organization |
 | -------------- | ------------ |
 | [cityssm](https://github.com/cityssm) | The Corporation of the City of Sault Ste. Marie |
+| [workiva](https://github.com/Workiva) | Workiva |
 
 ## Developers
 
 | GitHub Account | Developer |
 | -------------- | ------------ |
 | [dangowans](https://github.com/dangowans) | Dan Gowans |
+| [andquizi](https://github.com/andquizi) | Andrew Quizi |
 
 ## Contributing
 
