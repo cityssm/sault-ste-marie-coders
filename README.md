@@ -14,8 +14,9 @@ A repository to promote open source developers and organizations in Sault Ste. M
 
 | GitHub Account | Developer |
 | -------------- | ------------ |
-| [dangowans](https://github.com/dangowans) | Dan Gowans |
 | [andquizi](https://github.com/andquizi) | Andrew Quizi |
+| [dangowans](https://github.com/dangowans) | Dan Gowans |
+
 
 ## Contributing
 
