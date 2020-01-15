@@ -16,6 +16,7 @@ A repository to promote open source developers and organizations in Sault Ste. M
 | -------------- | ------------ |
 | [andquizi](https://github.com/andquizi) | Andrew Quizi |
 | [dangowans](https://github.com/dangowans) | Dan Gowans |
+| [grevian](https://github.com/grevian) | Josh Hayes-Sheen |
 
 
 ## Contributing
