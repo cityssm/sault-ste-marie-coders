@@ -18,6 +18,7 @@ A repository to promote open source developers and organizations in Sault Ste. M
 | [bambams](https://github.com/bambams) | Brandon McCaig |
 | [dangowans](https://github.com/dangowans) | Dan Gowans |
 | [grevian](https://github.com/grevian) | Josh Hayes-Sheen |
+| [peetss](https://github.com/peetss) | Erik Petersen |
 
 
 ## Contributing
