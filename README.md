@@ -17,10 +17,9 @@ A repository to promote open source developers and organizations in Sault Ste. M
 | [andquizi](https://github.com/andquizi) | Andrew Quizi |
 | [bambams](https://github.com/bambams) | Brandon McCaig |
 | [dangowans](https://github.com/dangowans) | Dan Gowans |
+| [danharasymiw](https://github.com/danharasymiw) | Dan Harasymiw |
 | [grevian](https://github.com/grevian) | Josh Hayes-Sheen |
 | [peetss](https://github.com/peetss) | Erik Petersen |
-| [danharasymiw](https://github.com/danharasymiw) | Dan Harasymiw |
-
 
 ## Contributing
 
