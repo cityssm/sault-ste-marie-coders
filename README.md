@@ -19,6 +19,7 @@ A repository to promote open source developers and organizations in Sault Ste. M
 | [dangowans](https://github.com/dangowans) | Dan Gowans |
 | [grevian](https://github.com/grevian) | Josh Hayes-Sheen |
 | [peetss](https://github.com/peetss) | Erik Petersen |
+| [danharasymiw](https://github.com/danharasymiw) | Dan Harasymiw |
 
 
 ## Contributing
