@@ -20,6 +20,7 @@ A repository to promote open source developers and organizations in Sault Ste. M
 | [danharasymiw](https://github.com/danharasymiw) | Dan Harasymiw |
 | [grevian](https://github.com/grevian) | Josh Hayes-Sheen |
 | [peetss](https://github.com/peetss) | Erik Petersen |
+| [birdssm](https://github.com/birdssm) | Aaron Bird |
 
 ## Contributing
 
