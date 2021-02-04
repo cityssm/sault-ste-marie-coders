@@ -2,6 +2,7 @@
 
 A repository to promote open source developers and organizations in Sault Ste. Marie, Ontario.
 
+Project Home: https://github.com/cityssm/sault-ste-marie-coders
 
 ## Organizations
 
