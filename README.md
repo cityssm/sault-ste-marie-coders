@@ -20,6 +20,7 @@ Project Home: https://github.com/cityssm/sault-ste-marie-coders
 | [birdssm](https://github.com/birdssm) | Aaron Bird |
 | [dangowans](https://github.com/dangowans) | Dan Gowans |
 | [danharasymiw](https://github.com/danharasymiw) | Dan Harasymiw |
+| [dohnutt](https://github.com/dohnutt) | Eric Moss |
 | [grevian](https://github.com/grevian) | Josh Hayes-Sheen |
 | [peetss](https://github.com/peetss) | Erik Petersen |
 
